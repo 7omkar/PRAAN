@@ -1,9 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP SIM7600EH
-D Multi-Band LTE-TDD/LTE-FDD/HSPA+ and GSM/GPRS/EDGE module
-K
-F https://www.waveshare.com/w/upload/f/fd/SIM7600_Series_Hardware_Design_V1.02.pdf
-$ENDCMP
-#
-#End Doc Library
